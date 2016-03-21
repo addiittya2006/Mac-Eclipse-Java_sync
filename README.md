@@ -1,4 +1,5 @@
 # Mac-Eclipse-Java_sync
-Adds Eclipse Java Workspace
-In development Archived Apps.
-For Personal Future Reference.
+
+  Adds Eclipse Java Workspace<br>
+  Here lie old Archived Apps.<br>
+  Do not PR. For Personal Future Reference.
